@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="56.7265625" height="60" viewBox="0 0 56.7265625 62" xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate" style="vertical-align: text-top; ">
+    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      stroke:rgb(62, 32, 196);
+      stroke-width:2px;">
+        <path d="M54.73 17.17L43.27 60L38.35 60L29.71 31.32Q29.09 29.41 28.33 26.51Q27.57 23.61 27.54 23.03L27.54 23.03Q26.89 26.89 25.49 31.49L25.49 31.49L17.11 60L12.19 60L0.79 17.17L6.06 17.17L12.83 43.62Q14.24 49.19 14.88 53.70L14.88 53.70Q15.67 48.34 17.23 43.21L17.23 43.21L24.90 17.17L30.18 17.17L38.23 43.45Q39.64 47.99 40.61 53.70L40.61 53.70Q41.16 49.54 42.71 43.56L42.71 43.56L49.45 17.17L54.73 17.17Z" style="stroke-dasharray: 342px, 344px; stroke-dashoffset: 343px; animation: 300ms linear 0ms 1 normal forwards running STAdraw;"></path>
+    </g>
+    <style>@keyframes STAdraw{to{stroke-dashoffset:0}}</style>
+</svg>
